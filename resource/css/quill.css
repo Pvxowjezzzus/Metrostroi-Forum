@@ -1,0 +1,31 @@
+
+.ql-font-monospace {
+    font-family: Monospace;
+}
+.ql-font-serif {
+    font-family: Serif;
+}
+blockquote {
+    margin: 0;
+    background: #EAF9F9;
+    border-top: 5px solid #EAF9F9;
+    border-bottom: 5px solid #EAF9F9;
+    color: #3A3C55;
+    padding: 30px 30px 30px 90px;
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.ql-align-center {
+    text-align: center;
+}
+.ql-editor {
+    max-height: 300px;
+    font-family: Microsoft YaHei UI;
+}
+.ql-editor p {
+    max-width: 1000px;
+}
+.ql-editor img {
+    max-width: 1000px;
+}
